@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# The main executable
+rss_aggregator_go
+
+# secrets
+.env
